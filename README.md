@@ -1,9 +1,9 @@
 # discord-bone
 
-これはReplit用のDiscord BotのBone（骨格）です。ダウンロードしてTOKENを入力すれば動きます。
+これはReplit用のDiscord BotのBone（骨格）です。ダウンロードしてTOKENを入力すれば動きます。\n
 Replit以外では動作保証できません。Errorが出たら頑張ってデバッグしてくれや。
 
-参考：EOi様 , Disbot様
+参考：EOi様 , Disbot様\n
 以下のサイトを参照し、バージョンアップで動かなくなったところを改修しました。
 自分の勉強としてコメント記述を多めにしてあります。
 
